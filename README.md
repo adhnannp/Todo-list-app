@@ -1,6 +1,3 @@
-Here's the updated version of the `README.md` with the requested features structured properly, including the "1 second ago" timer feature and the update functionality:
-
-```markdown
 # Todo List App
 
 A simple Todo List app built with **Vite** and **React** that allows users to add, update, mark tasks as completed, and delete tasks, with a "time ago" feature to show when the task was last updated.
@@ -35,7 +32,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adhnannp/todo-list-app.git
+   git clone https://github.com/adhnannp/Todo-list-app.git
    ```
 
 2. Navigate to the project directory:
